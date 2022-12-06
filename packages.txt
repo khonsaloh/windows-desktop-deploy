@@ -1,0 +1,14 @@
+obs-studio
+shotcut
+gimp
+brave
+vlc
+rclone
+peazip
+libreoffice-fresh
+git
+vscodium
+handbrake
+rufus
+imageglass
+lsd
